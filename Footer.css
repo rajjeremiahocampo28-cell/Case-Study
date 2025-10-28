@@ -1,0 +1,43 @@
+.footer {
+  background-color: #fff;
+  color: #333;
+  text-align: center;
+  padding: 25px 0;
+  border-top: 2px solid #ddd;
+  margin-top: 80px;
+  font-family: "Georgia", serif;
+}
+
+.footer-title {
+  font-weight: bold;
+  letter-spacing: 1px;
+  margin-bottom: 8px;
+  font-size: 18px;
+  color: #000;
+}
+
+.footer-text {
+  margin: 4px 0;
+  color: #555;
+  font-size: 14px;
+}
+
+.footer-text.tagline {
+  color: #666;
+  font-style: italic;
+}
+
+.footer-text.contact {
+  color: #444;
+}
+
+.footer-text.socials {
+  color: #007b5e;
+  font-weight: 500;
+}
+
+.footer-text.copyright {
+  font-size: 13px;
+  color: #777;
+  margin-top: 10px;
+}
