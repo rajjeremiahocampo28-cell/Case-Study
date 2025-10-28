@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./App.css";
-import ProductList from "./ProductList";
+import ProductList from "./Product";
 import Cart from "./Cart";
 import Checkout from "./Checkout";
 
@@ -15,7 +15,7 @@ function App() {
   return (
     <div className="container">
 
-      <h1>Products</h1>
+      <h1>⌚ Products</h1>
 
       {!showCheckout ? (
         <>
